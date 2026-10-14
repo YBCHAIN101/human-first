@@ -74,6 +74,7 @@ Open a new conversation and try the prompts in the table above. A skill is invok
 
 - Claude decides when to use a skill, so behavior is not guaranteed in every conversation.
 - This is a behavioral prompt, not a clinical tool. It does not diagnose or treat any condition. If you feel your AI use is harming your wellbeing, consider talking to a trusted person or a professional.
+- - Pattern detection across separate messages (for example, many small delegated choices) is unreliable, because the assistant sees each request on its own. See `examples/test-scenarios.md` (A5).
 
 ### Roadmap
 
